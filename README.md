@@ -14,6 +14,8 @@ Python 3.6.5
 
 サンプル数300のデータセットを生成した．
 
+![img1](https://raw.githubusercontent.com/ymt117/KMeans/master/image/image1.png)
+
 #### 2．クラスタリング
 
 生成したデータセットをK-means法によって4つのクラスタに識別した．
@@ -21,3 +23,5 @@ Python 3.6.5
 #### 3．結果
 
 K-means法によって識別した結果を色分けしてプロットした．また，K-means法によって決定したクラスタの中心もプロットした．
+
+![img2](https://raw.githubusercontent.com/ymt117/KMeans/master/image/image2.png)
